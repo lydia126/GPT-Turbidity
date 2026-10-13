@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+.venv/
+.venv-1/
+.venv-312/
+.venv-release/
+
+# Build/package
+build/
+dist/
+*.spec
+
+# Outputs
+output_alarm/
+_gui_tmp_inputs/
+
+# IDE
+.vscode/
